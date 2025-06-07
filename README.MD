@@ -1,11 +1,5 @@
-#  _        __                 _   _             
- # | |      / _|               | | (_)            
- # | | ___ | |_ _ __ ___   __ _| |_ _ _ __   __ _ 
- # | |/ _ \|  _| '_ ` _ \ / _` | __| | '_ \ / _` |
- # | | (_) | | | | | | | | (_| | |_| | | | | (_| |
- # |_|\___/|_| |_| |_| |_|\__,_|\__|_|_| |_|\__, |
- #                                           __/ |
- #                                          |___/ 
+**About Me**  
+
 
 Hi there 👋, I'm **Samuel Bamikole**!
 
@@ -18,20 +12,6 @@ Languages: `Python` `HTML` `CSS (learning)`
 Frameworks:  `Flask` `FastAPI (learning)`  
 Tools: `Git` `VS Code`  `SQLite`
 
-## 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=That-bro397&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## 🛠️ My Top Skills 
-
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&color=3776AB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&color=blueviolet)
-![Flask](https://img.shields.io/badge/Flask-F7DF1E?style=for-the-badge&logo=flask&color=orange)
-![Git](https://img.shields.io/badge/Git-F05F40?style=for-the-badge&logo=git&color=red)
-![Linux](https://img.shields.io/badge/Linux-F05F40?style=for-the-badge&logo=linux&color=green)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=teal)
 
 ## 💼 What I Do 
 - 🧠 I write clean, efficient and maintainable Python code (I follow PEP8 guidelines strictly)
