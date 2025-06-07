@@ -1,9 +1,8 @@
-**About Me**  
+# **About Me**  
 
 
 Hi there 👋, I'm **Samuel Bamikole**!
 
-## 🐍 About Me:  
 I'm a **Junior Python Developer** from **Nigeria**,I am passionate about building tools and applications that solve real-world problems with code 💻✨.  
 When I’m not coding, you will find me learning something new, exploring APIs, or helping others in tech communities.
 
