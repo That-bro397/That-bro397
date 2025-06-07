@@ -31,5 +31,4 @@ Tools: `Git` `VS Code`  `SQLite`
 <a href="https://github.com/That-bro397"  target="_blank">GitHub</a> •  
 <a href="https://twitter.com/thatbro_001"  target="_blank">Twitter/X</a> •  
 <a href="mailto:samuelbamikole07@gmail.com">Email</a>
-
 <a href="https://instagram.com/thatbro_001"  target="_blank">Instagram</a> •
